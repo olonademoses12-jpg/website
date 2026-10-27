@@ -441,6 +441,7 @@ form button{
     display: flex;
     gap: 160px;
     justify-content: center;
+    align-items: center;
 }
 .small-third h4{
     font-family: 'DM Sans';
